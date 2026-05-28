@@ -1,3 +1,4 @@
+https://smart-pill-box--nothingtosay257.replit.app
 # Web Dashboard
 
 This folder contains the Replit-built web dashboard for the **Smart Medication Reminder Pill Box** project.
